@@ -1,5 +1,7 @@
 #include "cpr/session.h"
 
+#define CURL_STATICLIB
+
 #include <algorithm>
 #include <cstdlib>
 #include <fstream>
